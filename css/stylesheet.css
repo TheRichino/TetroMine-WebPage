@@ -307,13 +307,13 @@ hr {
 .mc {width: 98%; background: #4286f4;}
 
 .owner,
-.builder,
+.developer,
 .admin {
 	padding: 12px;
 }
 
 .owner {background-color: #cc0000;}
-.builder {background-color: #e9435e;}
+.developer {background-color: #9e3ac0;}
 .admin {background-color: #ce3232;}
 
 

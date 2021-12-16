@@ -325,7 +325,7 @@ hr {
 .an-img {
 	width: 100%;
 	background: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.35)),
-	url("../img/background-2.png") no-repeat center center;
+	url("../img/NewsBackground.png") no-repeat center center;
 	background-size: cover;
 	background-attachment: fixed;
 	padding: 100px 50px;
